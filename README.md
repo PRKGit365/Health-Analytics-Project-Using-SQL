@@ -1,6 +1,8 @@
-# Health Analytics Project Using SQL  
+## 📊 HEALTH ANALYTICS PROJECT (MS SQL SERVER)  
 
-This is a Health Analytics Project via LinkedIn Learning "Healthcare SQL" course with Thais Cooke. 
+📖 Description  
+
+This is a health analytics project from the LinkedIn Learning "Healthcare SQL" course with Thais Cooke. 
 Included is an index of queries used and sample output for the data set provided in the course.
 
 📈 Project Scenario  
