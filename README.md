@@ -2,6 +2,7 @@
 
 This is a Health Analytics Project via LinkedIn Learning "Healthcare SQL" course with Thais Cooke. 
 Included is an index of queries used and sample output for the data set provided in the course.
+
 📈 Project Scenario  
 
 Role: Healthcare Data Analyst working with EHR data including multiple tables. Hospital Leadership wants to understand the changing patient population served. They asked the following questions:
