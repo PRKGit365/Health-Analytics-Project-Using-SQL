@@ -2,7 +2,7 @@
 
 📖 Description  
 
-This is a health analytics project from the LinkedIn Learning "Healthcare SQL" course with Thais Cooke. 
+This is a health analytics project from the LinkedIn Learning "Healthcare SQL" course. 
 Included is an index of queries used and sample output for the data set provided in the course.
 
 📈 Project Scenario  
