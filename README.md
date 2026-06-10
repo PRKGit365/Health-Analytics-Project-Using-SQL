@@ -28,5 +28,5 @@ multiple visits within 30 days of their previous medical visit?
   
 🛠 Tools & Technologies
 
-- Microsoft SQL Server
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
